@@ -10,9 +10,9 @@ Johanna Amann, Bro/ICSI
 And the rest of the Bro/Zeek Team
 Anthony Verez
 
-auth_bruteforcing - detect HTTP bruteforcing (Base64)
-bugzilla_bruteforce - an example how to parse raw HTTP data to implement an application level bruteforcing detection
-chrome-sha1 - warn on certificates issued before a certain timestamp and with SHA1
+auth_bruteforcing - detect HTTP bruteforcing (Base64)  
+bugzilla_bruteforce - an example how to parse raw HTTP data to implement an application level bruteforcing detection  
+chrome-sha1 - warn on certificates issued before a certain timestamp and with SHA1  
 cipher_stats - generates a periodic statistics of cipher suites used in your network. Useful to measure an impact when disabling yet another vulnerable ciphersuite
 conn-add-country - add the country code to each connection record
 conn-peer - for each connection record add the full worker name that processed that connection. Useful for troubleshooting packet loss.
